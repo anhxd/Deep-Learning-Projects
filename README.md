@@ -1,5 +1,5 @@
 
-# Deep Learrning projects 
+# Deep Learning projects 
 
 1)Sentiment Analysis of Movie reviews using Recurrent Neural Network(RNN)
 
